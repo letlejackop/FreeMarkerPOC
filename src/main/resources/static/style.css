@@ -1,0 +1,117 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  color: #333;
+}
+
+header {
+  background-color: #fff;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav {
+  float: right;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+main {
+  padding: 20px 0;
+}
+
+.hero-section {
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-section h2 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.hero-section p {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.hero-section a {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+.about-section {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.about-section h2 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.about-section a {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+.contact-section {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.contact-section h2 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.contact-section p {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.contact-section a {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
